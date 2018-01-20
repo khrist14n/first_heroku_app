@@ -1,6 +1,59 @@
 Primera App en heroku  usando PHP
 
+>>>>Paso 1:
+
 Url para crear tu primera app:
+
+https://dashboard.heroku.com/new-app
+
+
+Crear la app
+
+
+>>>>Paso 2:
+
+Instalar Composer
+
+
+sudo apt-get install curl php-cli php-mbstring git unzip -y
+sudo apt-get install php-mbstring php-gettext libapache2-mod-php  -y
+sudo apt-get install php-xml -y
+sudo apt-get install php-zip git zip gzip  tar wget -y
+sudo phpenmod mcrypt
+sudo phpenmod mbstring
+
+sudo apt-get install composer -y
+
+>>>>Paso 3:
+
+Instalamos Heroku client 
+
+sudo snap install heroku --classic
+
+
+>>>>Paso 4:
+
+Descargar proyecto
+
+git clone https://github.com/khrist14n/first_heroku_app.git
+
+>>>>Paso 5:
+
+Configurar archivos de proyecto php para heroku 
+
+app.json
+composer.json
+Procfile
+
+>>>>Paso 6:
+
+Implementar cambios en nuestros archivos de php
+
+>>>>Paso 7:
+
+Deployar el proyecto en heroku
+
+
 
 
 
