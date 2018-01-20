@@ -1,0 +1,6 @@
+{
+  "name": "Heroku PHP",
+  "description": "Heroku PHP",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
+}
